@@ -5,7 +5,6 @@ import styles from "../styles";
 import { fadeIn } from "../utils/motion";
 import headset from "../public/headset.svg";
 
-// We are getting this "id, imgUrl, title" props from "{...world} spread".
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
     variants={fadeIn("right", "spring", index * 0.5, 0.75)}

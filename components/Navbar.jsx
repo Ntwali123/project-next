@@ -31,7 +31,7 @@ const Navbar = () => (
       />
 
       <h2 className="font-extrabold text-[24px] leading-[30px] text-white ">
-        METAVERSUS
+          NEXARA
       </h2>
       <Image
         src={menu}

@@ -17,69 +17,69 @@ export const exploreWorlds = [
   {
     id: "world-1",
     imgUrl: Planet_1,
-    title: "The Hogwarts",
+    title: "MetaFlux",
   },
   {
     id: "world-2",
     imgUrl: Planet_2,
-    title: "The Upside Down",
+    title: "CyberWarp",
   },
   {
     id: "world-3",
     imgUrl: Planet_3,
-    title: "Kadirojo Permai",
+    title: "NexusRealm",
   },
   {
     id: "world-4",
     imgUrl: Planet_4,
-    title: "Paradise Island",
+    title: "HyperVoid",
   },
   {
     id: "world-5",
     imgUrl: Planet_5,
-    title: "Hawkins Labs",
+    title: "OmniVerse X",
   },
 ];
 
 export const startingFeatures = [
-  "Find a world that suits you and you want to enter",
-  "Enter the world by reading Har Har Mahadev to be safe",
-  "No need to beat around the bush, just stay on the gas and have fun",
+  "Discover insane virtual worlds filled with chaos and adventure",
+  "Enter the madness by embracing the unknown",
+  "No limits, no rules—just pure Metaverse mayhem",
 ];
 
 export const newFeatures = [
   {
     imgUrl: vrpano,
-    title: "A new world",
+    title: "A New Dimension",
     subtitle:
-      "we have the latest update with new world for you to try never mind",
+        "Step into uncharted digital territories, where reality bends and the impossible is real.",
   },
   {
     imgUrl: headset,
-    title: "More realistic",
+    title: "Insanely Immersive",
     subtitle:
-      "In the latest update, your eyes are narrow, making the world more realistic than ever",
+        "Experience a hyper-realistic universe with mind-blowing visuals and next-level interactivity.",
   },
 ];
 
 export const insights = [
   {
     imgUrl: Planet_6,
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    title: "Metaverse Chaos: How It’s Reshaping Reality",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+        "The virtual world is no longer just a game—it's a revolution. Are you ready for the madness?",
   },
   {
     imgUrl: Planet_7,
-    title: "7 tips to easily master the madness of the Metaverse",
+    title: "7 Hacks to Dominate the Metaverse",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+        "Master the digital realm with these expert tips and unlock the true potential of the Metaverse.",
   },
   {
     imgUrl: Planet_8,
-    title: "With one platform you can explore the whole world virtually",
+    title: "One Hub to Explore Infinite Realms",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+        "Seamlessly travel through countless virtual dimensions—all from a single platform.",
   },
 ];
 

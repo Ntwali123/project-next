@@ -8,11 +8,9 @@ export const TypingText = ({ title, textStyles }) => (
     variants={textContainer}
     className={`font-normal text-[14px] text-secondary-white ${textStyles}`}
   >
-    {/* This Array will split the characters in the title and then map over that characters */}
-    {/* NOTE use 'parenthesis' over 'curly brackets' to return something instantly */}
+
     {Array.from(title).map((letter, index) => (
       <motion.span variants={textVariant2} key={index}>
-        {/* checking if letter are available or not */}
         {letter === " " ? "\u00A0" : letter}
       </motion.span>
     ))}
